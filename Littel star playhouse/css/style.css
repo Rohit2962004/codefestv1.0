@@ -1,0 +1,83 @@
+.nav_bar{
+	background-color:#000066;
+}
+.logo_img{
+	margin: 0px 300px 0px 20px;
+	border-radius:50%;
+	height:100px;
+	width:100px;
+}
+.nav-link{
+	margin:0px 35px 0px 0px;
+	color:white;
+	font-size:30px;
+}
+.prallax1{
+	background-attachment: fixed;
+    text-align: center;
+}
+.main_boxes{
+	border:1px solid black;
+	margin:20px 96px 0px 0px;
+	padding:25px 0px;
+}
+.box_img{
+	height:150px;
+	width:150px;
+}
+.heading_ag{
+	text-align:center;
+	color:#4d9900;
+}
+.first_box{
+	background-color:pink;
+	color:white;
+}
+.second_box{
+	background-color:yellow;
+	color:white;
+}
+.thired_box{
+	background-color:orange;
+	color:white;
+}
+.team_qualified{
+	margin:10px;
+	border:2px solid black;
+	text-align:center;
+	padding:15px;
+	font-size:20px;
+	background-color:#fed136;
+}
+.gallery{
+	margin:10px 0px;
+}
+.all_about{
+	background-color:#000066;
+}
+.about-us{
+	font-size:20px;
+	color:white;
+	padding:30px;
+}
+.icon_img{
+	height:50px;
+	width:50px;
+	border-radius:50%;
+	background-color:gray;
+}
+.contact_littel{
+	font-size:25px;
+	margin:20px;
+}
+.icon_iimg{
+	border-radius:15;
+	background-color:gray;	
+}
+.grid_12{
+	background-color:#000066;
+	color:white;
+	text-align:center;
+	font-size:25px;
+	margin:0px;
+}
